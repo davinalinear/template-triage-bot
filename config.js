@@ -6,19 +6,16 @@ const triageConfig = {
     Done: {
       emoji: ':white_check_mark:'
     },
-    Accepted: {
-      emoji: ':thumbsup_all:'
-    }
   },
   levels: {
     Urgent: {
-      emoji: ':high_priority:'
+      emoji: ':highpriority:'
     },
     Medium: {
-      emoji: ':medium_priority:'
+      emoji: ':mediumpriority:'
     },
     Low: {
-      emoji: ':low_priority:'
+      emoji: ':lowpriority:'
     }
   },
   scheduled_reminders: [
