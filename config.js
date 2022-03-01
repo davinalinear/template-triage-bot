@@ -12,13 +12,13 @@ const triageConfig = {
   },
   levels: {
     Urgent: {
-      emoji: ':highpriority:'
+      emoji: ':high-priority:'
     },
     Medium: {
-      emoji: ':mediumpriority:'
+      emoji: ':medium-priority:'
     },
     Low: {
-      emoji: ':lowpriority:'
+      emoji: ':low-priority:'
     }
   },
   scheduled_reminders: [
